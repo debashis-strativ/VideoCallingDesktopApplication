@@ -16,7 +16,7 @@ import sun.audio.AudioStream;
 
 /**
  *
- * @author eh5i0
+ * @author Debashis
  */
 public class ClientManu extends javax.swing.JFrame {
 
@@ -62,8 +62,8 @@ public class ClientManu extends javax.swing.JFrame {
         getContentPane().add(ReceiveButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(151, 171, 96, -1));
 
         jLabel1.setFont(new java.awt.Font("Tempus Sans ITC", 1, 24)); // NOI18N
-        jLabel1.setText("LANSMIT");
-        getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(142, 47, 114, 53));
+        jLabel1.setText("MVdo");
+        getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 50, 114, 53));
 
         jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/ClientProject/ima.png"))); // NOI18N
         getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 400, 300));
