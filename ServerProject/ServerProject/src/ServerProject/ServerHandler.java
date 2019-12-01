@@ -37,7 +37,7 @@ import org.opencv.objdetect.CascadeClassifier;
 
 /**
  *
- * @author OldSpice
+ * @author Debashis
  */
 public class ServerHandler extends JPanel {
 
