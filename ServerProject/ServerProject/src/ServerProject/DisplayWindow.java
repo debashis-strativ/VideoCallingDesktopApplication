@@ -24,7 +24,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author OldSpice
+ * @author Debashis
  */
 public class DisplayWindow extends JPanel  {
 
