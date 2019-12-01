@@ -18,7 +18,7 @@ import org.opencv.objdetect.CascadeClassifier;
 
 /**
  *
- * @author eh5i0
+ * @author Debashis
  */
 public class ServerWriter implements Runnable{
     
