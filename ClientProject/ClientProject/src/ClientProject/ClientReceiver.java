@@ -8,6 +8,10 @@ import java.io.InputStream;
 import java.net.*;
 import javax.swing.JFrame;
 import org.opencv.highgui.VideoCapture;
+/**
+ *
+ * @author Debashis
+ */
 
 public class ClientReceiver implements Runnable
 {
