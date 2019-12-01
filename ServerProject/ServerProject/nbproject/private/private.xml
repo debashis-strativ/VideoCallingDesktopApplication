@@ -3,17 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Md.%20Sharafat%20Ullah/Desktop/JavaApplication3/src/Skpe/MatToBufImg.java</file>
-            <file>file:/C:/Users/Md.%20Sharafat%20Ullah/Desktop/JavaApplication3/src/Skpe/DisplayWindow.java</file>
-            <file>file:/C:/Users/Md.%20Sharafat%20Ullah/Desktop/JavaApplication3/src/Sound/SpeakerPlay.java</file>
-            <file>file:/C:/Users/Md.%20Sharafat%20Ullah/Desktop/JavaApplication3/src/Skpe/ServerManu.java</file>
-            <file>file:/C:/Users/Md.%20Sharafat%20Ullah/Desktop/JavaApplication3/src/Skpe/ImageConvertion.java</file>
-            <file>file:/C:/Users/Md.%20Sharafat%20Ullah/Desktop/JavaApplication3/saved.jpg</file>
-            <file>file:/C:/Users/Md.%20Sharafat%20Ullah/Desktop/JavaApplication3/src/Skpe/ServerHandler.java</file>
-            <file>file:/C:/Users/Md.%20Sharafat%20Ullah/Desktop/JavaApplication3/src/Test/TestWebCam.java</file>
-            <file>file:/C:/Users/Md.%20Sharafat%20Ullah/Desktop/JavaApplication3/src/Skpe/ServerReceiver.java</file>
-            <file>file:/C:/Users/Md.%20Sharafat%20Ullah/Desktop/JavaApplication3/src/Sound/MicrophoneOpen.java</file>
-            <file>file:/C:/Users/Md.%20Sharafat%20Ullah/Desktop/JavaApplication3/src/Skpe/ServerWriter.java</file>
+            <file>file:/E:/Github/VideoCallingDesktopApplication/ServerProject/ServerProject/src/ServerProject/ServerWriter.java</file>
+            <file>file:/E:/Github/VideoCallingDesktopApplication/ServerProject/ServerProject/src/ServerProject/ServerManu.java</file>
+            <file>file:/E:/Github/VideoCallingDesktopApplication/ServerProject/ServerProject/src/ServerProject/MicrophoneOpen.java</file>
+            <file>file:/E:/Github/VideoCallingDesktopApplication/ServerProject/ServerProject/src/ServerProject/DisplayWindow.java</file>
+            <file>file:/E:/Github/VideoCallingDesktopApplication/ServerProject/ServerProject/src/ServerProject/ServerHandler.java</file>
+            <file>file:/E:/Github/VideoCallingDesktopApplication/ServerProject/ServerProject/src/ServerProject/MatToBufImg.java</file>
+            <file>file:/E:/Github/VideoCallingDesktopApplication/ServerProject/ServerProject/src/ServerProject/SpeakerPlay.java</file>
+            <file>file:/E:/Github/VideoCallingDesktopApplication/ServerProject/ServerProject/src/ServerProject/ImageConvertion.java</file>
+            <file>file:/E:/Github/VideoCallingDesktopApplication/ServerProject/ServerProject/src/ServerProject/ServerReceiver.java</file>
         </group>
     </open-files>
 </project-private>
