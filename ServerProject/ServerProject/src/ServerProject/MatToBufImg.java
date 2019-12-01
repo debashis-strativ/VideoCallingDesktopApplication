@@ -19,7 +19,7 @@ import org.opencv.highgui.Highgui;
 
 /**
  *
- * @author OldSpice
+ * @author Debashis
  */
 public class MatToBufImg {
 
