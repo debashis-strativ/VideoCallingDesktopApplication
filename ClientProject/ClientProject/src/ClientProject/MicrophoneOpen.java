@@ -19,7 +19,7 @@ import javax.sound.sampled.TargetDataLine;
 
 /**
  *
- * @author John
+ * @author Debashis
  */
 public class MicrophoneOpen{
 
