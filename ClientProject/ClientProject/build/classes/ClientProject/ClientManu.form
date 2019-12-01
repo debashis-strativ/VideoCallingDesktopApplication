@@ -59,11 +59,11 @@
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Tempus Sans ITC" size="24" style="1"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="LANSMIT"/>
+        <Property name="text" type="java.lang.String" value="MVdo"/>
       </Properties>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="142" y="47" width="114" height="53"/>
+          <AbsoluteConstraints x="160" y="50" width="114" height="53"/>
         </Constraint>
       </Constraints>
     </Component>
