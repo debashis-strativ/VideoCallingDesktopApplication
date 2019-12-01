@@ -19,7 +19,7 @@ import javax.sound.sampled.SourceDataLine;
 
 /**
  *
- * @author John
+ * @author Debashis
  */
 public class SpeakerPlay extends Thread{
 
