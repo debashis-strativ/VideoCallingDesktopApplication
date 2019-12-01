@@ -8,6 +8,10 @@ import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import javax.imageio.ImageIO;
+/**
+ *
+ * @author Debashis
+ */
 
 public class ImageConvertion {
    // private static final boolean LOSSY_COMPRESSION = true;
