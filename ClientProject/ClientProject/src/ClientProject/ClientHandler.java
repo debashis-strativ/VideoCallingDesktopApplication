@@ -13,7 +13,10 @@ import java.net.Socket;
 import javax.swing.JFrame;
 import org.opencv.highgui.VideoCapture;
 
-
+/**
+ *
+ * @author Debashis
+ */
 public class ClientHandler  {
 
     public static void main(String args[]) throws IOException, Exception {
